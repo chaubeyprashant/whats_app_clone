@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682761545254",
+    "project_id": "agora-chat-app-c03d6",
+    "storage_bucket": "agora-chat-app-c03d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682761545254:android:0195d6a656358c17eee8e7",
+        "android_client_info": {
+          "package_name": "com.example.agora_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyWgGhpCbi1bJT_qi_3Z5YyxAnFIkmz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
